@@ -1,0 +1,6 @@
+Django~=4.2.0
+pip-tools~=7.4.0
+python-dotenv~=1.0.0
+requests~=2.27.0    # for down-stream compatibility
+trio~=0.26.0
+urllib3~=1.26.0     # for down-stream compatibility
